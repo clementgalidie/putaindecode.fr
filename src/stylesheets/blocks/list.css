@@ -1,6 +1,6 @@
 .putainde-List-item {
   position: relative;
-  padding: 0 0 0 calc(var(--line-height) * 3);
+  padding: 0 0 0 calc(var(--line-height) * 4);
 }
   @media (max-width:28em) {
     .putainde-List-item {
@@ -25,7 +25,7 @@
   position: absolute;
   top: var(--half-line-height);
   left: 0;
-  width: var(--double-line-height);
+  width: calc(var(--line-height) * 4);
 }
 
 .putainde-Message {
