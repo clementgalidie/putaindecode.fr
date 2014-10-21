@@ -2,7 +2,7 @@ Le Web, depuis sa création est un vaste champ de bataille. Que ce soit les prob
 
 ## Au départ
 
-Les débuts du Web furent compliqués. On assista à une guerre entre Netscape et Microsoft. Chacun voulant dominer le marché, en tentant d'imposer ses propres technologies. En 1996, Netscape propose au W3C JSSS (JavaScript-Based Style Sheets). Ce n'est d'ailleurs que depuis novembre 2000 que Netscape, basé sur le moteur Gecko (moteur de Mozilla Firefox), prend véritablement en charge le CSS. Microsoft pour sa part ne supportait par JavaScript à ses débuts et avait développé son propre langage JScript.
+Les débuts du Web furent compliqués. On assista à une guerre entre Netscape et Microsoft. Chacun voulant dominer le marché, en tentant d'imposer ses propres technologies. En 1996, Netscape propose au W3C JSSS (JavaScript-Based Style Sheets). Ce n'est d'ailleurs que depuis novembre 2000 que Netscape, basé sur le moteur Gecko (moteur de Mozilla Firefox), prend véritablement en charge le CSS. Microsoft pour sa part ne supportait pas JavaScript à ses débuts et avait développé son propre langage JScript.
 
 Ces problèmes de compatibilités, de technologies et de respect des normes vont considérablement ralentir l'évolution du Web.
 
@@ -29,11 +29,11 @@ Coup de théatre [récemment](http://blogs.msdn.com/b/ie/archive/2014/07/31/the-
 
 C'est dans ce contexte qu'est née l'initiative [webcompat.com](http://webcompat.com). Lancée initialement par des développeurs de chez [Mozilla](https://hacks.mozilla.org/2014/06/introducing-webcompat-com/) et quelques autres [contributeurs](https://github.com/webcompat/webcompat.com/graphs/contributors) en juin 2014.
 
-Le site a un double objectif : rendre le Web le plus compatible possible et éliminer les bugs.
+Le site a un double objectif : rendre le Web le plus compatible possible et éliminer les bogues.
 
-Le site accepte toutes sortes de bugs, que ce soit un problème de compatibilité entre navigateurs (`prefixe`, `sniffing UA`, etc), ou tout simplement un bug d'affichage, que vous soyez propriétaires ou simple utilisateurs du site.
+Le site accepte toutes sortes de bogues, que ce soit un problème de compatibilité entre navigateurs (`prefixe`, `sniffing UA`, etc), ou tout simplement un bogue d'affichage, que vous soyez propriétaires ou simple utilisateurs du site.
 
-Une fois le bug soumis, quiconque a la possibilité de proposer un diagnostic, de corriger le bug, voir de transmettre la solution aux équipes techniques du site en question (par Twitter, e-mail, GitHub, etc).
+Une fois le bogue soumis, quiconque a la possibilité de proposer un diagnostic, de corriger le bogue, voir de transmettre la solution aux équipes techniques du site en question (par Twitter, e-mail, GitHub, etc).
 
 Le projet est libre et appartient à sa communauté.
 
